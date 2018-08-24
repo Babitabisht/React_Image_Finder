@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 
+src/components/config/keys
 # testing
 /coverage
 
@@ -20,5 +21,3 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-
-src/components/config/keys
